@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self taught mobile developer from India.<br>I love coding in flutter.<br>I'm currently learning golang.
+I'm a self taught mobile developer from India.<br>I love coding in flutter.
 
 
 ## 🌐 Socials:
